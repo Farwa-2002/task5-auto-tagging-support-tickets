@@ -1,0 +1,11 @@
+ticket,zero_shot_tags,few_shot_tags
+My internet is not working since yesterday,"['Technical Issue', 'Bug/Error', 'Account Access']","['Billing Issue', 'Account Access', 'Bug/Error']"
+I was charged twice for my subscription,"['Subscription', 'Billing Issue', 'Bug/Error']","['Billing Issue', 'Subscription', 'Account Access']"
+Unable to login to my account,"['Bug/Error', 'Account Access', 'Technical Issue']","['Account Access', 'Billing Issue', 'Subscription']"
+App crashes when I open it,"['Bug/Error', 'Technical Issue', 'Account Access']","['Bug/Error', 'Billing Issue', 'Account Access']"
+I want to upgrade my plan,"['Subscription', 'Account Access', 'Technical Issue']","['Billing Issue', 'Account Access', 'Bug/Error']"
+Payment failed but money deducted,"['Bug/Error', 'Billing Issue', 'Technical Issue']","['Billing Issue', 'Bug/Error', 'Account Access']"
+Password reset link not working,"['Bug/Error', 'Technical Issue', 'Subscription']","['Billing Issue', 'Account Access', 'Bug/Error']"
+My account was blocked without reason,"['Bug/Error', 'Account Access', 'Subscription']","['Billing Issue', 'Account Access', 'Bug/Error']"
+Refund not received yet,"['Bug/Error', 'Subscription', 'Billing Issue']","['Billing Issue', 'Bug/Error', 'Account Access']"
+Application is very slow,"['Technical Issue', 'Bug/Error', 'Account Access']","['Billing Issue', 'Bug/Error', 'Account Access']"
